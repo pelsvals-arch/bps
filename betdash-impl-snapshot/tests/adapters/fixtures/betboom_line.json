@@ -1,0 +1,83 @@
+{
+  "events": [
+    {
+      "id": 101,
+      "sportId": 1,
+      "sportName": "Tennis",
+      "tournamentName": "ATP Tour",
+      "name": "Player A - Player B",
+      "team1": "Player A",
+      "team2": "Player B",
+      "startTime": 1764590400,
+      "state": "prematch",
+      "markets": [
+        {
+          "name": "Match Winner",
+          "outcomes": [
+            {"name": "W1", "short": "P1", "odds": 1.85},
+            {"name": "W2", "short": "P2", "odds": 1.95}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "sportId": 2,
+      "sportName": "Basketball",
+      "tournamentName": "NBA",
+      "name": "Team A - Team B",
+      "team1": "Team A",
+      "team2": "Team B",
+      "startTime": "2026-12-01T15:00:00Z",
+      "state": "prematch",
+      "markets": [
+        {
+          "name": "Winner",
+          "outcomes": [
+            {"name": "1", "short": "1", "odds": 2.10},
+            {"name": "2", "short": "2", "odds": 1.72}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "sportId": 3,
+      "sportName": "Dota 2",
+      "tournamentName": "ESL",
+      "name": "Team Spirit - Team Liquid",
+      "team1": "Team Spirit",
+      "team2": "Team Liquid",
+      "startTime": null,
+      "state": "prematch",
+      "markets": [
+        {
+          "name": "Match Winner",
+          "outcomes": [
+            {"name": "P1", "short": "P1", "odds": 1.60},
+            {"name": "P2", "short": "P2", "odds": 2.30}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "sportId": 4,
+      "sportName": "Counter-Strike 2",
+      "tournamentName": "BLAST",
+      "name": "Navi - Vitality",
+      "team1": "Navi",
+      "team2": "Vitality",
+      "state": "prematch",
+      "markets": [
+        {
+          "name": "Winner",
+          "outcomes": [
+            {"name": "W1", "short": "P1", "odds": 1.90},
+            {"name": "W2", "short": "P2", "odds": 1.90}
+          ]
+        }
+      ]
+    }
+  ]
+}

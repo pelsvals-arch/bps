@@ -1,0 +1,13 @@
+{
+  "Djokovic N.": "atp:djokovic",
+  "Djokovic Novak": "atp:djokovic",
+  "N. Djokovic": "atp:djokovic",
+  "Джокович Н.": "atp:djokovic",
+  "Alcaraz C.": "atp:alcaraz",
+  "Alcaraz Carlos": "atp:alcaraz",
+  "Carlos Alcaraz": "atp:alcaraz",
+  "Иванов": ["atp:ivanov_a", "atp:ivanov_b"],
+  "Ivanov": ["atp:ivanov_a", "atp:ivanov_b"],
+  "Петров": ["atp:petrov_a", "atp:petrov_b"],
+  "Petrov": ["atp:petrov_a", "atp:petrov_b"]
+}
